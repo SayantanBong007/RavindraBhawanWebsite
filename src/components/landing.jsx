@@ -4,10 +4,10 @@ import "../app.css";
 export default function Landing() {
   return (
     <section className="landingMainContainer" id="Home">
-      {console.log("Developed by Prabh")}
-      {console.log("Designed by Pushpak")}
+      {console.log("Developed by Sayantan")}
+      {console.log("Designed by Parth")}
       <div className="landingBox">
-        <img className="logo" src="./Images/logo.jpg"/>
+        <img className="logo" src="./Images/logo.jpg" />
         <div className="landingContent">
           <h1 className="landingHead">Welcome to Ravindra Bhawan</h1>
           <p className="landingBody">
